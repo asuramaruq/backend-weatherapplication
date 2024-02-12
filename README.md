@@ -1,7 +1,7 @@
 # Weather Application
 
 ## Deployed Link
-- 
+- https://backend-weatherapplication.onrender.com
 
 ## Installation guide
 1. Clone the repository.
