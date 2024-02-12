@@ -11,7 +11,7 @@
 5. Head to http://localhost:3000/ from you browser (or http://localhost:(CUSTOM_PORT)/ if you changed the port in `.env` file) 
 
 ## User guide
-### test user account ( username : user ; password : user )
+### test user account ( moodle submission )
 1. Register a new account (skip if account already exists)
 2. Login into the existing account
 3. Enter the name of the city into the input field
@@ -20,7 +20,7 @@
 6. If you wish to logout press the logout button on the navigation bar
 
 ## Admin guide
-### base admin account ( username : admin ; password : admin )
+### base admin account ( moodle submission )
 1. Use already existing admin account to login into the admin panel
 2. The list of the users provided on the page, as well as available actions
 3. If you wish to create a new user, press "Add user" button and fill out the form
